@@ -1,0 +1,14 @@
+C:\Users\Yan\Desktop\B18 Ex05 YanMelnik 315907741 EladPeled 308365790\B18 _Ex05\bin\Debug\B18 _Ex05.exe.config
+C:\Users\Yan\Desktop\B18 Ex05 YanMelnik 315907741 EladPeled 308365790\B18 _Ex05\bin\Debug\B18 _Ex05.exe
+C:\Users\Yan\Desktop\B18 Ex05 YanMelnik 315907741 EladPeled 308365790\B18 _Ex05\bin\Debug\B18 _Ex05.pdb
+C:\Users\Yan\Desktop\B18 Ex05 YanMelnik 315907741 EladPeled 308365790\B18 _Ex05\obj\Debug\B18 _Ex05.csprojResolveAssemblyReference.cache
+C:\Users\Yan\Desktop\B18 Ex05 YanMelnik 315907741 EladPeled 308365790\B18 _Ex05\obj\Debug\B18 _Ex05.csproj.CoreCompileInputs.cache
+C:\Users\Yan\Desktop\B18 Ex05 YanMelnik 315907741 EladPeled 308365790\B18 _Ex05\obj\Debug\B18 _Ex05.exe
+C:\Users\Yan\Desktop\B18 Ex05 YanMelnik 315907741 EladPeled 308365790\B18 _Ex05\obj\Debug\B18 _Ex05.pdb
+C:\Users\Yan\Desktop\gitone\B18 _Ex05\bin\Debug\B18 _Ex05.exe.config
+C:\Users\Yan\Desktop\gitone\B18 _Ex05\bin\Debug\B18 _Ex05.exe
+C:\Users\Yan\Desktop\gitone\B18 _Ex05\bin\Debug\B18 _Ex05.pdb
+C:\Users\Yan\Desktop\gitone\B18 _Ex05\obj\Debug\B18 _Ex05.csprojResolveAssemblyReference.cache
+C:\Users\Yan\Desktop\gitone\B18 _Ex05\obj\Debug\B18 _Ex05.csproj.CoreCompileInputs.cache
+C:\Users\Yan\Desktop\gitone\B18 _Ex05\obj\Debug\B18 _Ex05.exe
+C:\Users\Yan\Desktop\gitone\B18 _Ex05\obj\Debug\B18 _Ex05.pdb
